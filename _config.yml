@@ -13,7 +13,7 @@ timezone: ''
 
 # URLcd
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://gitee.com/Xiongjinchen/myblog
+url: https://github.com/NewDayxjc/github.io
 root: ./
 permalink: :year/:month/:day/:title/dir
 permalink_defaults:
@@ -99,7 +99,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://gitee.com/Xiongjinchen/myblog.git
+  repo: https://github.com/NewDayxjc/github.io.git
   branch: master
   message:
 
